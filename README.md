@@ -73,6 +73,18 @@ Pie chart for overall attrition rate
 
 Bar charts for department, age group, and job role distributions
 
+## Contributing
+
+Contributions are welcome! To extend or improve this project:
+
+1. **Fork** this repository  
+2. **Clone** your fork and create a new branch  
+3. **Add** your new visualizations or improvements  
+4. **Commit** your changes with clear messages  
+5. **Push** to your fork  
+6. **Submit a Pull Request** for review
+
+Feel free to open an issue for suggestions or bugs.
 
 
 
